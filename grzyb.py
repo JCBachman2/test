@@ -1,1 +1,1 @@
-prawdziwek
+print("prawdziwek")
