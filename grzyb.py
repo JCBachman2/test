@@ -1,1 +1,1 @@
-print("prawdziwek")
+prawdziwek
